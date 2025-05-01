@@ -28,7 +28,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-remote_theme: knhash/jekyllBear
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 plugins:
   - jekyll-feed
